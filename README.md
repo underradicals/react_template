@@ -1,2 +1,1 @@
-# react_template
-React Template
+# TS_REACT_VITEST TEMPLATE
